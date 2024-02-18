@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating e-commerce projects
 - 📫 How to reach me via LinkedIn or Email
 - 😄 Pronouns: Ms
-- ⚡ Fun fact: I love Spaghetti 🍝 not spaghetti code 😂
+- ⚡ Fun fact: I love Spaghetti 🍝 not spaghetti code 😉
 
 <!---
 mahamfathy/mahamfathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
