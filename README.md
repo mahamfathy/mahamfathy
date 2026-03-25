@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maha Fathy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Angular17
-- 💞️ I’m looking to collaborate on creating e-commerce projects
+- 🌱 I use Next Js, React Js, and Angular frameworks
+- 💞️ I’m looking to collaborate on creating creative and useful landing pages
 - 📫 How to reach me via LinkedIn or Email
 - 😄 Pronouns: Ms
 - ⚡ Fun fact: I love Spaghetti 🍝 not spaghetti code 😉
